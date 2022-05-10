@@ -73,8 +73,8 @@ li a {
 }
 
 button {
-  background-color: #3882f8;
-  padding: 5px 17px;
+  background-color: #1b65db;
+  padding: 5px 20px;
   margin-top: 10px;
   border-radius: 3px;
   border: transparent;
@@ -145,10 +145,29 @@ img{
   margin: auto;
 }
 
+.signUp{
+  padding: 100px;
+}
 
+.blue-section {
+  background-color: #1b65db;
+  display: flex;
+  width: 750px;
+  margin: auto;
+  padding: 25px;
+  gap: 100px;
+  border-radius: 5px;
+  color: #E5E7EB;
+}
 
+.action-call{
+  padding-left: 30px;
+}
 
-
+.blue-section button{
+  border: 2px solid;
+  border-radius: 7px;
+}
 
 
 
