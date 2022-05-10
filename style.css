@@ -138,6 +138,12 @@ img{
   font-style: italic;
 }
 
+.quote h3 {
+  display: flex;
+  flex-direction: row-reverse;
+  max-width: 750px;
+  margin: auto;
+}
 
 
 
