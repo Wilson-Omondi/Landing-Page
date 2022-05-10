@@ -8,6 +8,7 @@
   font-style: roboto;
 }
 
+/* Home/Main section */
 .home{
   color: white;
   background-color: #1F2937;
@@ -122,6 +123,7 @@ img{
   text-align: center;
 }
 
+/* Quote section */
 .quote{
   background-color: #e5e7eb;
   padding: 100px;
@@ -144,6 +146,8 @@ img{
   max-width: 750px;
   margin: auto;
 }
+
+/* Call to action section */
 
 .signUp{
   padding: 100px;
@@ -169,6 +173,7 @@ img{
   border-radius: 7px;
 }
 
+/* footer */
 
 .footer {
   display: flex;
